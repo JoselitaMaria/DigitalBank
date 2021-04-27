@@ -1,2 +1,2 @@
 # DigitalBank!
-*Sistema bancário, que possui funcionalidades básicas de conta Corrente e Poupança, desenvolvido com  o objetivo de aplicar os três pilares da linguagem java.*
+*Sistema bancário, que possui funcionalidades básicas de conta Corrente e Poupança, desenvolvido com  o objetivo de aplicar os três pilares da linguagem java orientada ao objeto.*
